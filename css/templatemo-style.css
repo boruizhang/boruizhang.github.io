@@ -560,3 +560,7 @@ h3.profile-title {
 #footer p.copyright-text a:hover {
   color: #6cc0f7;
 }
+
+.bree-font {
+  font-family: "Times", "Times New Roman", "Open Sans", "serif", "sans-serif";
+}
