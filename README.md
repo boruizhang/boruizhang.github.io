@@ -1,3 +1,6 @@
+## Pre-Requisites
+* `npm` is installed, otherwise `brew install npm`
+
 ## Install Http-Server
 
 ```
